@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BullsCows:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BullsCows_jar</output-path>
+    <root id="archive" name="BullsCows.jar">
+      <element id="module-output" name="BullsCows" />
+    </root>
+  </artifact>
+</component>
